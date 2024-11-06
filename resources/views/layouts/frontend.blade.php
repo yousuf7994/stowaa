@@ -204,7 +204,7 @@
                   <i class="icon icon-ShoppingCart"></i>
                   <small class="cart_counter">3</small>
                 </span>
-                <span class="cart_amount">$909.00</span>
+                <span class="cart_amount">$910.00</span>
               </button>
             </div>
           </div>
